@@ -1,0 +1,43 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+text-align: center;
+}
+body{
+    background-color: chartreuse;
+}
+
+nav{
+    background-color: aqua;
+    padding: 1%;
+}
+h1{
+  background-color: red;
+  color: green rgb( 9, 196, )
+}
+
+p{
+    background-color: green;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2%;
+
+}
+.super-mega-rosso-cool{
+    background-color: beige;
+    color:blue
+}
+
+.allineamento-dx-leggero{
+    text-align: left;
+    font-weight: 100;
+
+}
+
+
+.viva-2C{ 
+   background-color:chocolate
+   text-align: left; 
+   font-weight:200
+   font
+}
