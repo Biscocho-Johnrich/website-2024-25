@@ -35,9 +35,17 @@ p{
 }
 
 
-.viva-2C{ 
+.viva-2C-legger{ 
    background-color:chocolate
    text-align: left; 
    font-weight:200
-   font
+}
+
+.container{
+    display: flex;
+    background-color: cadetblue;
+}
+
+.container2{
+    background-color: blueviolet;
 }
