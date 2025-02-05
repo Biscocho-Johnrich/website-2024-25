@@ -8,3 +8,4 @@ function salvaListaInJson() {
         elementiLista.push(elemento.textContent.replace('🗑️', '').trim());
       }
     });
+    
