@@ -1,3 +1,12 @@
-let elencoFrutta = ["arancia", "mela", "banana"]
+let elencoFrutta = ["kiwi", "mela", "nespole" ]
+let array1 = [];
+console.log(elencoFrutta[0]);
 
-console.log(elencoFrutta[1]);
+console.log("La lunghezza di elencoFrutta è "+ elencoFrutta.length);
+console.log("La lunghezza
+    
+let ultimoElementoFrutta = elencoFrutta[elencoFrutta.length-1];
+
+console.log(ultimoElementoFrutta)
+
+
