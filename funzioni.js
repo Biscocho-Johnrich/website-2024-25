@@ -92,3 +92,13 @@ function calcolo(a,b,tipoDiCalcolo){
 console.log("Il risultato della somma è: " + calcolo(23,45, somma));
 console.log("Il risultato della divisione è: " + calcolo(200,40,divisione));
 console.log("Il risultato del modulo di 8 e 3 è: " + calcolo(8,3,modulo));
+
+
+function sommaParametri (parametro1,parametro2,parametro3)
+   
+   let risultatoTot = (parametro1 + parametro2)/parametro3;
+   return risultatoTot;
+
+}
+
+console.log(sommaParametri(50,30,2));

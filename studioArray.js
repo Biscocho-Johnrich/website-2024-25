@@ -1,5 +1,9 @@
 let elencoFrutta = ["kiwi", "mela", "nespole" ]
-let array1 = []; vfwsq  
+let arrayVoti = [65,89,70]; //dichiarazione di array 
+console.log(arrayVoti.lenght);
+
+
+let array1 = [65,55,70,40,70]; //dichiarazione di array  
 console.log(elencoFrutta[0]);
 
 elencoFrutta.sort[]
