@@ -1,16 +1,11 @@
-    function sonoAnagrammi(parola1,parola2){
-    
-    let p1 = "";
-    let p2 = "";
+function sonoAnagrammi(parola1,parola2){
+    let parola1Clean = parola1.replace(/\s+/g, '').toLowerCase();
+    let parola2Clean = parola1.replace(/\s+/g, '').toLowerCase();
+    console.log(parola1Clean.parola2Clean)
+}
 
-    let lunghezzaParola1 = p1.lenght;
-    let lunghezzaParola2 = p2.lenght;
+p1 = "ciA u"
+p2 = "BeLL o"
 
-    //controllo lunghezza
-     if(lunghezzaParola1) !== lunghezzaParola2={){
-        retun false
 
-    }
-
-    }
-    console.log(sonoAnagrammié"casa", "piede")
+console.sonoAnagrammi(p1,p2));
