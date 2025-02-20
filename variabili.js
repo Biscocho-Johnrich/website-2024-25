@@ -69,3 +69,8 @@ esempio1 = "castagne";   // errore
 console.log(esempio1);
 
 //-----------------------------
+
+let MichaelJackson=["Thriller","Billie Jean","Beat It",];
+let lunghezzaFrutti = frutti.lenght;
+console.log (frutto[lunghezzaFrutti 1]);
+console.log(Billie Jean[])
